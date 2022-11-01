@@ -1,3 +1,8 @@
+---
+title: Docker Project Pihole
+layout: template
+filename: DockerProject2.md
+--- 
 ## Start by installing docker
 This was showcased in the slides
 
