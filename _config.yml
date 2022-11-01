@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: System Admin Project Documentation
 description: Eli Shelton Project docuementation
+layout: page
+permalink: /Docker Project 2
