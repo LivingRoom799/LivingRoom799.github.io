@@ -1,6 +1,6 @@
 ---
 title: Docker Project Pihole
-layout: markdown
+layout: jekyll-theme-minimal
 filename: DockerProject2.md
 --- 
 ## Start by installing docker
