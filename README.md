@@ -1,18 +1,10 @@
 ## Download from the website using us mirror
 
-didnt verify pgp because i don't care
+booted with the BIOS mode (First option)
 
-when it booted press the key and then enter to boot?
+was not ufei
 
-was not ufei environtment dont know what that means
-
-didnt have to connect to the internet or set up keyboard
-
-checked system clock and it was wrong so i changed the time using: 
-
-```
-timedatectl set-timezone US/Central
-```
+didnt have to connect to the internet or set up keyboard since I was in VM
 
 i partitioned the one sda to a primary and its the same size and now im out of space for other primary
 drives using:
