@@ -1,4 +1,4 @@
-Go to [DockerProject](DockerProject2.md)
+Go to [Docker Project](DockerProject2.md)
 ---
 title: Arch Documentation
 ---
