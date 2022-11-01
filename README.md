@@ -1,7 +1,4 @@
 Go to [Docker Project](DockerProject2.md)
----
-title: Arch Documentation
----
 
 # Begin
 Download from the website using us mirror
