@@ -29,6 +29,10 @@ Fstab: generate and fstab to get UUID
 ```bash
 genfstab -U /mnt >> /mnt/etc/fstab
 ```
+switch to chroot
+```bash
+arch-chroot /mnt
+```
 add the linux kernel
 ```bash
 pacman -S linux-lts linux-lts-headers
