@@ -63,8 +63,8 @@ go to browser and search the ip associtated with the vm
 10.10.1.129
 ```
 - redirect to the admin page and login with password you created
-![image](https://github.com/LivingRoom799/LivingRoom799.github.io/blob/main/console%20to%20show%20running%20pihole.png)
-![image](https://github.com/LivingRoom799/LivingRoom799.github.io/blob/main/pihole%20ip.png)
+![image](https://user-images.githubusercontent.com/90875780/199767383-c225c829-22d3-4f68-aa27-bf18085f2710.png)
+![image](https://user-images.githubusercontent.com/90875780/199767291-8ec3f208-7fd6-4747-b6dd-ea4542ee61fb.png)
 ![image](https://user-images.githubusercontent.com/90875780/199766307-8dc5922d-206e-4b4f-9ef0-8263f6f7cca1.png)
 
 - if you were to use pihole for permanent use change your DNS to pihole.
