@@ -161,3 +161,66 @@ add line for
 127.0.1.1 eliarch
 install microcode for cpu
 ```bash
+pacman -S intel-ucode
+```
+install xorg for the Desktop env
+```bash
+pacman -S xorg-server
+```
+install video driver (vm)
+```bash
+pacman -S virtualbox-guest-utils xf86-video-vmware
+```
+enable vmbox video card on boot
+```bash
+systemctl enable vboxservice
+```
+## Setting up GNOME DE
+installing
+```bash
+pacman -S gnome
+```
+say yes to all
+install gnometweaks as well
+```bash
+pacman -S gnome-tweaks
+```
+enable display env
+```bash
+systemctl enable gdm
+```
+now reboot into brand new DE!!!
+and login
+in GNOME
+settings changed to dark theme in appearance
+display set to native
+and language set to english and relog
+## other tweaks for the assignment
+added a codi user
+```bash
+sudo useradd -m -g users -G wheel codi
+```
+changed codi user password
+```bash
+sudo passwd -e codi
+#changed to GraceHopper1906
+```
+install fish shell
+```bash
+pacman -S fish
+```
+in a terminal use fish by:
+```bash
+fish
+```
+- changed theme on terminal to dark in the terminal prefrences as well as a color theme for my terminal i picked Tango.
+- ssh was installed in my linux packages earlier so to ssh into the class gateway using my ip 10.10.1.129 and password. The VPN was open and
+connected on my host computer allowing me to see the private network on my VM.
+- System already boots into DE.
+- add aliases to .fish
+```fish
+alias c='clear'
+alias e='echo'
+alias mkdir='mkdir -pv'
+alias cal='gnome-calculator'
+```
