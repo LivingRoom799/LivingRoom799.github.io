@@ -1,5 +1,5 @@
 
-# Begin
+# Arch Begin
 Download from the website using us mirror
 booted with the BIOS mode (First option)
 was not ufei
@@ -224,3 +224,10 @@ alias e='echo'
 alias mkdir='mkdir -pv'
 alias cal='gnome-calculator'
 ```
+
+### ScreenShots
+![image](https://user-images.githubusercontent.com/90875780/199777785-ac2e3f3b-a9d6-46bb-8b59-de517e999056.png)
+![image](https://user-images.githubusercontent.com/90875780/199777931-4d2fc46d-2467-49f8-9783-7685e105b6f0.png)
+![image](https://user-images.githubusercontent.com/90875780/199778033-84717e51-3a70-4f92-a858-8fad938f926d.png)
+
+
