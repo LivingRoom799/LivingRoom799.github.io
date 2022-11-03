@@ -18,7 +18,7 @@ mkfs.ext4 /dev/sda1
 ```
 mounting the storage using:
 ```bash
-sda1 /mnt
+mount /dev/sda1 /mnt
 ```
 ## File storage and installing kernel
 install linux packages:
