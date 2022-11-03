@@ -62,11 +62,11 @@ go to browser and search the ip associtated with the vm
 ```
 10.10.1.129
 ```
-redirect to the admin page and login with password you created
-![[console to show running pihole.png]]
-![[pihole ip.png]]
-![[pihole admin.png]]
-if you were to use pihole for permanent use change your DNS to pihole.
+- redirect to the admin page and login with password you created
+- ![[console to show running pihole.png]]
+- ![[pihole ip.png]]
+- ![[pihole admin.png]]
+- if you were to use pihole for permanent use change your DNS to pihole.
 
-used a guide for this project the source of this guide is:
+- used a guide for this project the source of this guide is:
 https://www.geeksforgeeks.org/create-your-own-secure-home-network-using-pi-hole-and-docker/
