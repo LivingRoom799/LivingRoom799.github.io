@@ -98,7 +98,8 @@ docker-compose logs -f wireguard
 - download wireguard app on mobile device
 - scan qr code and name the tunnel
 - screenshots here for documentation purposes
-
+![image](https://user-images.githubusercontent.com/90875780/202041101-233fb538-8b07-49ec-82bc-fb48b0223ac1.png)
+![image](https://user-images.githubusercontent.com/90875780/202041149-88b6e84e-f619-43ec-b821-4bb492ece519.png)
 - find config file in wireguard
 ```bash
 cd ~/wireguard/configs/peer_pc1
@@ -107,5 +108,6 @@ nano peer_pc1.conf
 - copy config for desktop wireguard
 - show working wireguard
 - screenshots for documentation
-
+![image](https://user-images.githubusercontent.com/90875780/202041190-c1d18752-afea-457d-ae91-cc30b0525ed7.png)
+![image](https://user-images.githubusercontent.com/90875780/202041235-42092931-0fab-4455-a54b-f63b6dd2df0b.png)
 - This part of the documentation was made with the help of https://thematrix.dev/setup-wireguard-vpn-server-with-docker/
